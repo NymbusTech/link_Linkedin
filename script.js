@@ -6,6 +6,6 @@ function toggleMode(){
         img.setAttribute('src', './assets/avatar.jpg');
     }
     else{
-        img.setAttribute('src', './assets/Avatar.jpg')
+        img.setAttribute('src', './assets/avatar.jpg')
     }
 }
